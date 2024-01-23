@@ -3,6 +3,7 @@
 ## Introduction
 
 The "Your Pediatrician" bot, created by @garmagelm, is designed to assist parents by providing quick access to information regarding their children's health from birth. This bot is a valuable resource for parents seeking guidance and answers to common pediatric issues.
+link @your_pediatrician_bot
 
 ## Technology
 
